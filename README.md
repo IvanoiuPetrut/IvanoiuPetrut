@@ -2,7 +2,7 @@
 ### 📖 Computer Science Student at [Lucian Blaga University of Sibiu](https://www.ulbsibiu.ro/en/).
 ### 💚 I mainly do Vue.
 ### 🏗️ I love to create stuff and bring projects to life
-### 🌐 You can find more about me at [petrut.io](https://petrut.io)
+### 🌐 You can find more about me at [petrut.dev](https://petrut.dev)
 
 <!---
 IvanoiuPetrut/IvanoiuPetrut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
